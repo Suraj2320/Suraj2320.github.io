@@ -292,9 +292,9 @@ section .title::after {
   transition: all 0.3s ease;
   margin-top: 30px;
 }
-.services .serv-content .card:hover {
+/* .services .serv-content .card:hover {
   /* background: rgb(137, 135, 135); */
-}
+/* } */ 
 .services .serv-content .card .box {
   transition: all 0.3s ease;
 }
