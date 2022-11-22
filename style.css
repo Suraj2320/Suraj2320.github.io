@@ -557,6 +557,10 @@ section .title::after {
   color: crimson;
   background: none;
 }
+
+
+
+
 /* footer section styling */
 footer {
   background: #111;
@@ -766,6 +770,8 @@ footer span a:hover {
   margin: auto;
   margin-top: 30px;
   gap: 2px;
+  
+  
 }
 /* .techstack img {
   height: 80%;
@@ -886,3 +892,17 @@ margin-top: 20px;
 }
 
 /* github */
+
+
+
+.techstackk {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  width: 90%;
+  margin: auto;
+  margin-top: 30px;
+  gap: 2px;
+  margin-left: 60px;
+  
+  
+}
